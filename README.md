@@ -4,16 +4,16 @@ platforms: java
 author: jianghaolu
 ---
 
-#Getting Started with Graphrbac - Manage Service Principal - in Java #
+## Getting Started with Graphrbac - Manage Service Principal - in Java ##
 
 
-  Azure Service Principal sample for managing Service Principal -
-   - Create an Active Directory application
-   - Create a Service Principal for the application and assign a role
-   - Export the Service Principal to an authentication file
-   - Use the file to list subcription virtual machines
-   - Update the application
-   - Delete the application and Service Principal.
+Azure Service Principal sample for managing Service Principal
+  - Create an Active Directory application
+  - Create a Service Principal for the application and assign a role
+  - Export the Service Principal to an authentication file
+  - Use the file to list subcription virtual machines
+  - Update the application
+  - Delete the application and Service Principal.
  
 
 ## Running this Sample ##
@@ -30,7 +30,7 @@ Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an aut
 
 ## More information ##
 
-[http://azure.com/java] (http://azure.com/java)
+[http://azure.com/java](http://azure.com/java)
 
 If you don't have a Microsoft Azure subscription you can get a FREE trial account [here](http://go.microsoft.com/fwlink/?LinkId=330212)
 
