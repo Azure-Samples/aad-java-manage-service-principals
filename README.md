@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Graphrbac
-platforms: java
-author: yaohaizh
+extensions:
+- services: Graphrbac
+- platforms: java
 ---
 
-## Getting Started with Graphrbac - Manage Service Principal - in Java ##
+# Getting Started with Graphrbac - Manage Service Principal - in Java #
 
 
   Azure Service Principal sample for managing Service Principal -
