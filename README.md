@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Graphrbac
-- platforms: java
+description: "Azure Service Principal sample for managing Service Principal"
+urlFragment: aad-java-manage-service-principals
 ---
 
 # Getting Started with Graphrbac - Manage Service Principal - in Java #
